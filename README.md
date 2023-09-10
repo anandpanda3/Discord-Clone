@@ -86,4 +86,4 @@ Running commands with npm `npm run [command]`
 
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
-| `dev`           | 
+| `dev`           

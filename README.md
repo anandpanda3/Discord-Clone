@@ -69,7 +69,7 @@ NEXT_PUBLIC_LIVEKIT_URL=
 Add MySQL Database (I used PlanetScale)
 
 ```shell
-npx prisma generate
+
 
 
 ### Start the app

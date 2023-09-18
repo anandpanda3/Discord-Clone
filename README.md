@@ -73,6 +73,5 @@ npm run dev
 
 ## Available commands
 
-Running commands with npm `npm run.
 
 

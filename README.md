@@ -62,9 +62,7 @@ NEXT_PUBLIC_LIVEKIT_URL=
 
 ### Start the app
 
-```shell
 npm run dev
-```
 
 
 

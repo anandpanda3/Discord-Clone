@@ -1,5 +1,7 @@
 <h1>DISCORD CLONE </h1>
 
+Discord is a free communication platform that allows users to connect with each other through text chat, voice chat, and video chat. It's particularly popular among gamers, but also used by various communities and individuals for different purposes. 
+
 
 
 

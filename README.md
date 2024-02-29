@@ -11,7 +11,7 @@ Tech Stack : Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL |
 Key Features:
 
 - Real-time messaging using Socket.io
-- Send attachments as messages using UploadThing
+- Sending Attachments
 - Delete & Edit messages in real time for all users
 - Create Text, Audio and Video call Channels
 - 1:1 conversation between members
